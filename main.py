@@ -1,3 +1,5 @@
+x = 1 + 2
+
 
 def main():
     print("Hello from 190-assignment-5!")
