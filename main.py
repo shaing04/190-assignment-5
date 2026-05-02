@@ -1,8 +1,5 @@
-import os
 
 def main():
-    print(x)
-    print(y)
     print("Hello from 190-assignment-5!")
 
 
